@@ -74,6 +74,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ---
 
-## Created by Avan ❤️
+## Built by Avan ❤️
 
 ````
